@@ -1,0 +1,28 @@
+body {
+    background-color: #9AC8CD;
+}
+
+img{
+    width: 100px; 
+    border-radius: 10px;
+}
+ 
+.header{
+    background-color: #E1F7F5;
+    color: blueviolet;
+    border-radius: 10px;
+}
+
+h3{
+    color: blueviolet;
+}
+
+h2{
+    color: blueviolet;
+}
+.footer{
+    border-radius: 0%;
+}
+p{
+    color: black;
+}
